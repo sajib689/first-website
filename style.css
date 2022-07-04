@@ -8,8 +8,9 @@ h1 {
 span {
   color: orange;
 }
-section {
+.flexible-container {
   display: flex;
+  margin-bottom: 150px;
 }
 
 .main-head-image {
@@ -39,4 +40,7 @@ section {
   background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
+}
+
+.experience-area {
 }
